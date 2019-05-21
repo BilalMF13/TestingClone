@@ -14,10 +14,12 @@ public class TestingClone {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) 
-            {
+    public static void main(String[] args) {
         // TODO code application logic here
-    System.out.println("Test clone");
-            }
+        System.out.println("Test clone");
+        for(int i = 0;i < 10; i++){
+            System.out.println("Bob Ross is my dad");
+        }
+    }
     
 }
